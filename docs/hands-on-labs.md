@@ -48,6 +48,8 @@ No content.
 
 -->
 
+<br/>
+
 ## GitHub Quickstart Hands-On Labs
 
 | Quickstart | Description | 
