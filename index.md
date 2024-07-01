@@ -1,6 +1,13 @@
-# Training for Microsoft Official Course (MOC) az-2008: DevOps Foundations The Core Principles and Practices. 
+---
+title: 
+layout: home
+nav_order: 1
+---
 
-Companion Material and Resources for Class Delivery by [**Ricardo Cabral**](https://www.rramoscabral.com) for Microsoft Official Course (MOC) AZ-2008: DevOps Foundations The Core Principles and Practices.
+
+# Companion Material and Resources for Microsoft Official Course (MOC) AZ-2008: DevOps Foundations The Core Principles and Practices. e
+
+Companion Material and Resources for Class Delivery by [**Ricardo Cabral**](https://www.rramoscabral.com) for Microsoft Official Course (MOC) AZ-2008: DevOps Foundations The Core Principles and Practices. .
 
 <br/>
 
@@ -49,7 +56,6 @@ After completing this course, students will be able to Implement generative AI s
 - [Microsoft Windows PowerShell Training](https://github.com/rramoscabral/MSPowerShell---Training---Microsoft-Windows-PowerShell)
 
 
-
 <br/>
 
 ---
@@ -77,7 +83,3 @@ After completing this course, students will be able to Implement generative AI s
 ---
 
 <br/>
-
-
-
-
