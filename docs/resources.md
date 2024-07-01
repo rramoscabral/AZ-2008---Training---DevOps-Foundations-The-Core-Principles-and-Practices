@@ -50,6 +50,7 @@ No content.
 | --- | --- | 
 | [GitHub Docs](https://docs.github.com) | Oficial GitHub documentation. |
 | [GitHub Licensing a repository](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) | Choosing the right license for public repositories on GitHub. |
+| [Microsoft DevOps tutorial](https://azure.microsoft.com/en-us/solutions/devops/tutorial) | DevOps introduction. |
 
 
 <br/>
