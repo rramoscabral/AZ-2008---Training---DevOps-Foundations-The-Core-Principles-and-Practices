@@ -22,7 +22,7 @@ has_children: false
 <br/>
 
 
-## fficial course Hands-on Labs
+## Official course Hands-on Labs
 
 * ***az-2008*** official course lab instructions is available [**here**](https://microsoftlearning.github.io/AZ-2008_DevOps_Foundations_Core_Principles_Practices/). 
 * You can download the latest instructions and complete solution [**here**](https://github.com/MicrosoftLearning/AZ-2008_DevOps_Foundations_Core_Principles_Practices)
