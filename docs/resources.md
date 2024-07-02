@@ -48,10 +48,21 @@ No content.
 
 | Documentation | Description |
 | --- | --- | 
+| [Azure Architectures](https://learn.microsoft.com/en-us/azure/architecture/browse/) | Find architecture diagrams and technology descriptions for reference architectures, real world examples of cloud architectures, and solution ideas for common workloads on Azure. |
+| [Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/) | The Azure Well-Architected Framework is a set of quality-driven tenets, architectural decision points, and review tools intended to help solution architects build a technical foundation for their workloads.| 
+| [Cloud design patterns that support reliability](https://learn.microsoft.com/en-us/azure/well-architected/reliability/design-patterns) | Design patterns for reliability | 
+| [DevSecOps Manifesto](https://www.devsecops.org/) | DevSecOps Manifesto. |
 | [GitHub Docs](https://docs.github.com) | Oficial GitHub documentation. |
 | [GitHub Licensing a repository](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) | Choosing the right license for public repositories on GitHub. |
-| [Understanding GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions) | Learn the basics of GitHub Actions, including core concepts and essential terminology. | 
 | [Microsoft DevOps tutorial](https://azure.microsoft.com/en-us/solutions/devops/tutorial) | DevOps introduction. |
+| [Semantic Versioning](https://semver.org/) | Semantic Versioning Specification (SemVer) |
+| [Software release life cycle](https://en.wikipedia.org/wiki/Software_release_life_cycle) | The software release life cycle (Wikipedia).|
+| [Understanding GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions) | Learn the basics of GitHub Actions, including core concepts and essential terminology. | 
+| [What is DevOps? with Donovan Brown](https://devblogs.microsoft.com/devops/what-is-devops-donovan/) | "DevOps is the union of people, process, and products to enable continuous delivery of value to our end users." |
+| [What is DevOps?](https://learn.microsoft.com/en-us/devops/what-is-devops) | What is DevOps? (Microsoft Learn). |
+| [What is DevSecOps?](https://www.microsoft.com/en-us/security/business/security-101/what-is-devsecops) | What is DevSecOps? (Microsoft). |
+| [What is the Agile Manifesto?](https://www.agilealliance.org/agile101/the-agile-manifesto/)  | The Agile Manifesto| 
+
 
 
 <br/>
