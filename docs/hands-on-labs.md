@@ -68,16 +68,9 @@ No content.
 
 <!-- Required software to run the course and workshop hands-on labs available [**here**](./Lab-Setup.md) -->
 
-
 <br/>
 
-## Other Official Microsoft Workshop or Hackathon Hands-On Labs
 
-|  Hands-On Labs | Description | 
-| --- | --- | 
-| [Azure OpenAI in a day workshop](https://github.com/microsoft/azure-openai-in-a-day-workshop) | In this technical workshop, you will get a comprehensive introduction to Azure OpenAI Service and Azure OpenAI Studio |
-| [Build & Modernize AI Applications](https://github.com/Azure/Build-Modern-AI-Apps) | Demonstrate how to build Modern AI Apps with AI assistant user experience that incorporate Hero Azure Services including Azure OpenAI Service, Azure Container Apps (or AKS), Azure Cosmos DB and Azure Cognitive Search. [Demo app here](https://lemon-wave-0e1c0eb1e.3.azurestaticapps.net/) |
-| [Build and Modernize AI Applications Hackathon](https://github.com/Azure/Build-Modern-AI-Apps-Hackathon)  | A 1-2 day hackathon to help users learn the concepts and technical skills to build AI-enabled applications and services in Azure. |
 
 
 
